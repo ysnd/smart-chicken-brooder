@@ -14,5 +14,6 @@ This project is an IoT based smart chicken brooder using telegram bot as a notif
 - Lamp 
 - Relay
 - Motor Servo
+- some cardboard
 
 
