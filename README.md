@@ -15,4 +15,14 @@ This project is an IoT based smart chicken brooder using telegram bot as a notif
 - Relay
 - Motor Servo
 
+## Wiring Diagram
+![Wiring](images/wiring.png)
+
+## Prototype
+![Prototype](images/1.jpg)
+
+## Screenshot Telegram Bot
+![SSTelegramBot](images/ssbot.jpg)
+
+
 
