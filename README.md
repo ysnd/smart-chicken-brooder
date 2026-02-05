@@ -20,6 +20,7 @@ This project is an IoT based smart chicken brooder using telegram bot as a notif
 
 ## Prototype
 ![Prototype](images/1.jpg)
+![Prototype2](images/2.jpg)
 
 ## Screenshot Telegram Bot
 ![SSTelegramBot](images/ssbot.jpg)
